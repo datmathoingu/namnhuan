@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.exe
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.deps.json
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.runtimeconfig.json
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.dll
+C:\Users\Admin\source\repos\namnhuan\bin\Debug\netcoreapp3.1\namnhuan.pdb
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.AssemblyInfo.cs
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.dll
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.pdb
+C:\Users\Admin\source\repos\namnhuan\obj\Debug\netcoreapp3.1\namnhuan.genruntimeconfig.cache
